@@ -1,0 +1,152 @@
+[
+  {
+    "loja": "01",
+    "endereco": "AV. PALESTINA, 212 - JD FLAMBOYANT",
+    "cidade": "Campinas",
+    "whatsapp": "(19) 9.9749-5558",
+    "telefoneFixo": "",
+    "diasUteis": "7.30-18.30",
+    "sabado": "7.30-14.00",
+    "domingo": "Fechado"
+  },
+  {
+    "loja": "02",
+    "endereco": "Avenida José Bonifácio , 441 - Jardim Flamboyant",
+    "cidade": "Campinas",
+    "whatsapp": "(19) 9.9305-9168",
+    "telefoneFixo": "",
+    "diasUteis": "7.30-18.30",
+    "sabado": "7.30-13.00",
+    "domingo": "Fechado"
+  },
+  {
+    "loja": "03",
+    "endereco": "Av Lafayete arruda Camargo,57",
+    "cidade": "Campinas",
+    "whatsapp": "(19) 9.9152-0104",
+    "telefoneFixo": "(19) 2210-3165",
+    "diasUteis": "8.00-18.00",
+    "sabado": "8.00-14.00",
+    "domingo": "Fechado"
+  },
+  {
+    "loja": "04",
+    "endereco": "Rua Ernesto Bristotti, 277",
+    "cidade": "Campinas",
+    "whatsapp": "(19) 9.9562-0592",
+    "telefoneFixo": "",
+    "diasUteis": "8.00-18.00",
+    "sabado": "8.00-13.00",
+    "domingo": "Fechado"
+  },
+  {
+    "loja": "05",
+    "endereco": "Av Doutor Alberto sarmento, 244",
+    "cidade": "Campinas",
+    "whatsapp": "",
+    "telefoneFixo": "",
+    "diasUteis": "7.30-18.30",
+    "sabado": "7.30-13.00",
+    "domingo": "Fechado"
+  },
+  {
+    "loja": "06",
+    "endereco": "Av Doutor Armando Sales de Oliveira 377 - Taquaral",
+    "cidade": "Campinas",
+    "whatsapp": "(19) 9.9755-9009",
+    "telefoneFixo": "(19) 3254-7648",
+    "diasUteis": "8.00-18.00",
+    "sabado": "8.00-13.00",
+    "domingo": "Fechado"
+  },
+  {
+    "loja": "07",
+    "endereco": "Av Carlos Grimaldi, 761 - Jd Conceição",
+    "cidade": "Campinas",
+    "whatsapp": "(19) 9.3207-3247",
+    "telefoneFixo": "(19) 3207-3247",
+    "diasUteis": "8.00-18.00",
+    "sabado": "8.00-13.00",
+    "domingo": "Fechado"
+  },
+  {
+    "loja": "08",
+    "endereco": "AV XV DE AGOSTO 43 - centro Socorro SP 13960-000",
+    "cidade": "Socorro",
+    "whatsapp": "(19) 9.9810-6055",
+    "telefoneFixo": "",
+    "diasUteis": "8.30-19.00",
+    "sabado": "8.30-15.00",
+    "domingo": "Fechado"
+  },
+  {
+    "loja": "09",
+    "endereco": "Rua Cecílio Nunes da Silva, 557",
+    "cidade": "Campinas",
+    "whatsapp": "",
+    "telefoneFixo": "",
+    "diasUteis": "8.00-18.00",
+    "sabado": "8.00-13.00",
+    "domingo": "Fechado"
+  },
+  {
+    "loja": "10",
+    "endereco": "Av palmital 30 - JD FLAMBOYANT",
+    "cidade": "Campinas",
+    "whatsapp": "(19) 9.9333-5038",
+    "telefoneFixo": "",
+    "diasUteis": "7.30-18.30",
+    "sabado": "7.30-14.00",
+    "domingo": "Fechado"
+  },
+  {
+    "loja": "12",
+    "endereco": "Av Jorge Tibiriça 1527",
+    "cidade": "Campinas",
+    "whatsapp": "",
+    "telefoneFixo": "",
+    "diasUteis": "8.00-18.00",
+    "sabado": "8.00-13.00",
+    "domingo": "Fechado"
+  },
+  {
+    "loja": "18",
+    "endereco": "Rua José Carlos Ferrari, 172",
+    "cidade": "Valinhos",
+    "whatsapp": "(19) 9.9977-1632",
+    "telefoneFixo": "(19) 3869-3732",
+    "diasUteis": "8.00-18.00",
+    "sabado": "8.00-13.00",
+    "domingo": "Fechado"
+  },
+  {
+    "loja": "19",
+    "endereco": "Av Barão de Itapura, 1692",
+    "cidade": "Campinas",
+    "whatsapp": "(19) 9.9810-2502",
+    "telefoneFixo": "",
+    "diasUteis": "8.30-18.30",
+    "sabado": "8.00-13.00",
+    "domingo": "Fechado"
+  },
+  {
+    "loja": "20",
+    "endereco": "Av. Monsenhor Jerônimo Baggio, 266 - Jardim Nossa Sra. Auxiliadora",
+    "cidade": "Campinas",
+    "whatsapp": "(19) 9.9997-8610",
+    "telefoneFixo": "",
+    "diasUteis": "8.00-18.00",
+    "sabado": "8.00-13.00",
+    "domingo": "Fechado"
+  },
+  {
+    "loja": "25",
+    "endereco": "Rua Itália 345, Jardim Europa",
+    "cidade": "Santa Bárbara",
+    "whatsapp": "(19) 9.9204-8720",
+    "telefoneFixo": "",
+    "diasUteis": "8.00-18.00",
+    "sabado": "8.00-17.00",
+    "domingo": "Fechado"
+  }
+]

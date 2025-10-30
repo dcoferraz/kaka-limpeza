@@ -1,0 +1,4 @@
+other/
+*.zip
+assets
+node_modules/
