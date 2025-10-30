@@ -1,6 +1,6 @@
 [
   {
-    "icon": "./assets/products/product_1.jpg",
+    "icon": "./assets/images/products/product_1.jpg",
     "title": "Lava roupas Koala",
     "description": "Usado para lavar roupas, cabelos, bolsos, etc.",
     "price": 25.0,
@@ -8,7 +8,7 @@
     "linkText": "Read More"
   },
   {
-    "icon": "./assets/products/product_2.jpg",
+    "icon": "./assets/images/products/product_2.jpg",
     "title": "Omo Multiuso",
     "description": "Usado para lavar roupas, cabelos, bolsos, etc.",
     "price": 15.0,
@@ -16,7 +16,7 @@
     "linkText": "Compre Agora!"
   },
   {
-    "icon": "./assets/products/product_3.jpg",
+    "icon": "./assets/images/products/product_3.jpg",
     "title": "Omo Multiuso",
     "description": "Usado para lavar roupas, cabelos, bolsos, etc.",
     "price": 15.0,
@@ -24,7 +24,7 @@
     "linkText": "Compre Agora!"
   },
   {
-    "icon": "./assets/products/product_4.jpg",
+    "icon": "./assets/images/products/product_4.jpg",
     "title": "Omo Multiuso",
     "description": "Usado para lavar roupas, cabelos, bolsos, etc.",
     "price": 15.0,
