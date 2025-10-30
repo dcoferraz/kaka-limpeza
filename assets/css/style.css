@@ -45,6 +45,7 @@
 /* Default  */
 :root {
   --cor-kaka: #ed0b6e;
+  --cor-kaka-fade: #dc5c94;
   --color-primary: #20282d;
   --color-secondary: #1f1f25;
   --color-blue: #0b4df5;
@@ -5732,8 +5733,13 @@ Copyright (c) 2015 Daniel Eden
   display: none;
 }
 .header--sticky.sticky.header-one {
-  background: #fff;
+  background: var(--cor-kaka);/*#fff;*/
 }
+
+.header--sticky.sticky.header-one .nav-area ul li a {
+  color: #fff !important;
+}
+
 
 @media only screen and (max-width: 1199px) {
   .header-seven {
