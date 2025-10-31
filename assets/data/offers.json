@@ -1,34 +1,32 @@
 [
   {
-    "icon": "./assets/images/products/product_1.jpg",
-    "title": "Lava roupas Koala",
-    "description": "Usado para lavar roupas, cabelos, bolsos, etc.",
-    "price": 25.0,
-    "link": "service-details.html",
-    "linkText": "Read More"
+    "icon": "./assets/images/products/koala_orquidia_negra.PNG",
+    "title": "Lava roupas Coala Laundry",
+    "price": 29.90
   },
   {
-    "icon": "./assets/images/products/product_2.jpg",
-    "title": "Omo Multiuso",
-    "description": "Usado para lavar roupas, cabelos, bolsos, etc.",
-    "price": 15.0,
-    "link": "http://wa.me/5519995620592?text=Olá! Quero comprar essa promoção do Omo",
-    "linkText": "Compre Agora!"
+    "icon": "./assets/images/products/koala_cha_branco.PNG",
+    "title": "Lava roupas Coala Laundry",
+    "price": 29.90
   },
   {
-    "icon": "./assets/images/products/product_3.jpg",
-    "title": "Omo Multiuso",
-    "description": "Usado para lavar roupas, cabelos, bolsos, etc.",
-    "price": 15.0,
-    "link": "http://wa.me/5519995620592?text=Olá! Quero comprar essa promoção do Omo",
-    "linkText": "Compre Agora!"
+    "icon": "./assets/images/products/vassoura.PNG",
+    "title": "Vassoura com cabo",
+    "price": 3.99
   },
   {
-    "icon": "./assets/images/products/product_4.jpg",
-    "title": "Omo Multiuso",
-    "description": "Usado para lavar roupas, cabelos, bolsos, etc.",
-    "price": 15.0,
-    "link": "http://wa.me/5519995620592?text=Olá! Quero comprar essa promoção do Omo",
-    "linkText": "Compre Agora!"
+    "icon": "./assets/images/products/ype_detergente.PNG",
+    "title": "Detergente Ypê",
+    "price": 2.29
+  },
+  {
+    "icon": "./assets/images/products/omo_sabao.PNG",
+    "title": "Omo Sabão em pó",
+    "price": 12.99
+  },
+  {
+    "icon": "./assets/images/products/papel_sulleg.PNG",
+    "title": "Papel Higiênico Folha Dupla",
+    "price": 19.90
   }
 ]

@@ -61,6 +61,10 @@
 
 .store-working-hours {
   font-size: 14px;
+
+    margin-top: 5px;
+    padding-top: 5px;
+    border-top: 0.5px solid lightgray;
 }
 
 .store-detail-container {
@@ -75,9 +79,6 @@
 .store .opening-time-inner .single-opening {
   display: flex;
   justify-content: space-between;
-  border-top: 0.5px solid lightgray;
-  margin-top: 5px;
-  padding-top: 5px;
 }
 
 .store .opening-time-inner .single-opening p {
