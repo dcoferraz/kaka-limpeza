@@ -12342,6 +12342,7 @@ section.main-wrapper-sticky .sticky-statement .right .arrow i {
   padding: 50px;
   display: flex;
   align-items: flex-start;
+  flex-direction: column;
 }
 
 @media only screen and (max-width: 991px) {
